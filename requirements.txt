@@ -1,0 +1,6 @@
+phonenumbers
+colorama
+readline
+psutil
+tabulate
+gputil
